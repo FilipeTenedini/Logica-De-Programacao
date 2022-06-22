@@ -2,7 +2,7 @@
 <h2 align="center"> Avaliação 02 (Senac RS) </h2>
 <h4>Aprendizado: Loops, Arrays, Validação de login e principalmente o início de estudo de funções
 
-aça um algoritmo que implemente o menu abaixo.
+#Faça um algoritmo que implemente o menu abaixo.
 
 MENU
 
